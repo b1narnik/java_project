@@ -9,6 +9,5 @@ public class Main {
         queries.first_query(); //запросы
         queries.second_query();
         queries.third_query();
-        System.exit(0);
     }
 }
